@@ -31,7 +31,6 @@
 - `src/main/resources/static/` – CSS, JS, and image assets
 - `application.properties` – DB and security configuration
 
----
 ## 💻 How to Run Locally
 
 1. Clone the repository:
