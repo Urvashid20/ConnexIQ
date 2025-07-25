@@ -2,7 +2,6 @@
 
 **ConnexIQ** is a robust CRM (Customer Relationship Management) web application built using **Spring Boot**. It enables organizations to efficiently manage employee or client contact details, providing a user-friendly interface and essential features like contact creation, updates, deletion, image uploads, and advanced search — all within a secure and responsive environment.
 
----
 
 ## 🚀 Key Features
 
@@ -15,7 +14,6 @@
 - 📊 Admin dashboard with responsive UI
 - 🌐 Public GitHub repository for version control and access
 
----
 
 ## 🛠️ Technologies Used
 
@@ -25,7 +23,6 @@
 - **Database**: MySQL  
 - **Build Tool**: Maven  
 
----
 
 ## 📂 Project Structure
 
